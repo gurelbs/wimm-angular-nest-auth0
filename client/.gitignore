@@ -749,3 +749,8 @@ env.json
 .vercel
 src/environments/environment.ts
 .angular
+
+.env*
+.flaskenv*
+!.env.project
+!.env.vault
